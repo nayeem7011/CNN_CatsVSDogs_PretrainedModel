@@ -5,7 +5,7 @@ This project focuses on building a Convolutional Neural Network (CNN) to classif
 
 ## Project Overview
 
-- **Objective**: To classify images of cats into specific breeds.
+- **Objective**: To classify images of cats and dogs.
 - **Tools Used**: TensorFlow, Keras, Pandas, NumPy, scikit-learn, Matplotlib, PIL.
 
 ## Data Preparation
